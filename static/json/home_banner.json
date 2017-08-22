@@ -1,0 +1,205 @@
+{
+  "module_ads": {
+    "block_id": "249",
+    "multi_block": [
+      {
+        "show_type": 2,
+        "block_type": 14,
+        "split_line": "0",
+        "margin_enabled": 0,
+        "data": [
+          {
+            "child": [
+              {
+                "pic": "https://goods5.juancdn.com/bao/160905/9/0/57cd1455151ad1f6428b45bf_80x80.png?iopcmd=convert&Q=88&dst=png",
+                "url": "https://m.juanpi.com/qiang",
+                "words": "最后疯抢",
+                "bd_id": "2351",
+                "x_record": "1_1",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2351::1_1\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "https://goods1.juancdn.com/bao/160905/0/a/57cd1466151ad1cf368b4621_80x80.png?iopcmd=convert&Q=88&dst=png",
+                "url": "https://mact.juanpi.com/jiujiubaoyou?mjuanpi_wx=1",
+                "words": "9.9包邮",
+                "bd_id": "2352",
+                "x_record": "1_2",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2352::1_2\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "https://goods3.juancdn.com/bao/160905/4/8/57cd14a2151ad1e1348b4633_80x80.png?iopcmd=convert&Q=88&dst=png",
+                "url": "https://tuan.juanpi.com/pintuan/?mjuanpi_wx=1",
+                "words": "拼团",
+                "bd_id": "2353",
+                "x_record": "1_3",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2353::1_3\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "https://goods4.juancdn.com/bao/160905/7/4/57cd14a7151ad1ab408b45ab_80x80.png?imageMogr2/quality/88!/format/png",
+                "url": "https://m.juanpi.com/yugao",
+                "words": "即将上线",
+                "bd_id": "2354",
+                "x_record": "1_4",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2354::1_4\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              }
+            ],
+            "countnum": 4,
+            "shownum": 4
+          }
+        ]
+      },
+      {
+        "show_type": 1,
+        "block_type": 4,
+        "split_line": "1",
+        "margin_enabled": 10,
+        "data": [
+          {
+            "width": 1,
+            "triangle": 0,
+            "height": 0.6074,
+            "child": [
+              {
+                "pic": "https://goods5.juancdn.com/jas/170731/8/f/597ef0f18150a153db6be5ac_540x656.png?iopcmd=convert&Q=88&dst=png",
+                "url": "https://m.juanpi.com/cate/490",
+                "layout": "col",
+                "width": 0.5,
+                "height": 1,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "7326",
+                "new_product": "",
+                "x_record": "2_1",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::2808::img_id::7326::2_1\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "https://goods8.juancdn.com/bao/170616/e/3/5943546fad0a49dc0c8b45d1_375x228.png?imageMogr2/quality/88!/format/png",
+                "url": "https://m.juanpi.com/cate/318?select=1_10&mjuanpi_wx=1",
+                "layout": "row",
+                "width": 0.5,
+                "height": 0.5,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "7327",
+                "new_product": "",
+                "similar": 2,
+                "x_record": "2_2",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::2808::img_id::7327::2_2\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "https://goods2.juancdn.com/jas/170802/2/2/598175688150a146a90a539f_540x328.png?imageMogr2/quality/88!/format/png",
+                "url": "http://tuan.juanpi.com/Oldbringnew?mjuanpi_wx=1",
+                "layout": "row",
+                "width": 0.5,
+                "height": 0.5,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "7328",
+                "new_product": "",
+                "similar": 2,
+                "x_record": "2_3",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::2808::img_id::7328::2_3\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "show_type": 1,
+        "block_type": 1,
+        "split_line": "0",
+        "margin_enabled": 10,
+        "data": [
+          {
+            "width": 1,
+            "triangle": 0,
+            "height": 0.128,
+            "child": [
+              {
+                "pic": "https://goods1.juancdn.com/bao/170310/0/f/58c20db7a43d1f63427015d8_750x96.jpg?iopcmd=convert&Q=88&dst=jpg",
+                "url": "",
+                "layout": "col",
+                "width": 1,
+                "height": 1,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "743",
+                "new_product": "",
+                "x_record": "3_1",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::697::img_id::743::3_1\",\"cid\":-1,\"_t\":1502095660,\"_z\":\"5\",\"ab_info\":null}"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "block_background_color": "",
+    "block_background_image": ""
+  },
+  "banner_ads": [
+    {
+      "pic": "https://goods2.juancdn.com/jas/170804/2/f/598460188150a134fe1d3191_1080x418.png?imageMogr2/thumbnail/750x290!/quality/80!/format/png",
+      "url": "https://m.juanpi.com/brand/2275767?shop_id=2275767",
+      "id": "14274",
+      "size": "750*290",
+      "title": "美动态",
+      "server_jsonstr": "{\"pit_info\":\"banner::14274::1_1\",\"cid\":\"\",\"_t\":1502095660}",
+      "x_record": "1_1",
+      "activityname": "click_ad_banner"
+    },
+    {
+      "pic": "https://goods5.juancdn.com/jas/170804/9/4/5984604fa9fcf8311505f8eb_1080x418.png?iopcmd=thumbnail&type=11&height=290&width=750%7Ciopcmd=convert&Q=80&dst=png",
+      "url": "https://m.juanpi.com/brand/2136796?shop_id=2136796",
+      "id": "14148",
+      "size": "750*290",
+      "title": "毅雅",
+      "server_jsonstr": "{\"pit_info\":\"banner::14148::1_2\",\"cid\":\"\",\"_t\":1502095660}",
+      "x_record": "1_2",
+      "activityname": "click_ad_banner"
+    },
+    {
+      "pic": "https://goods7.juancdn.com/jas/170804/d/4/598460748150a1372528fa23_1080x418.jpg?iopcmd=thumbnail&type=11&height=290&width=750%7Ciopcmd=convert&Q=80&dst=jpg",
+      "url": "https://m.juanpi.com/brand/2385784?shop_id=2385784",
+      "id": "14147",
+      "size": "750*290",
+      "title": "一叶子",
+      "server_jsonstr": "{\"pit_info\":\"banner::14147::1_3\",\"cid\":\"\",\"_t\":1502095660}",
+      "x_record": "1_3",
+      "activityname": "click_ad_banner"
+    }
+  ],
+  "topbanner": {
+    "pic": "",
+    "pic_url": "//jp.juancdn.com/jpwebapp/images/go_load_new.png",
+    "url": "//m.juanpi.com/landing/app_1437990734"
+  },
+  "popup_ads": []
+}

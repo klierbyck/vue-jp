@@ -1,0 +1,489 @@
+{
+  "count": 189,
+  "list": [
+    {
+      "goods_id": "52320748",
+      "shop_id": "2846793",
+      "brand_id": "1790483",
+      "title": "瑜秀百变时尚女装清爽专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2846793",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "43万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods3.juancdn.com/bao/170330/5/7/58dcd2b6a43d1f694f6184e4_180x90.png?iopcmd=convert&Q=88&dst=png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_1\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods4.juancdn.com/bao/170723/7/3/5974b6328150a112ba3f0aba_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥19.9",
+          "cp_color": "#ff464e",
+          "op": "¥298",
+          "title": "直筒休闲A字连衣裙",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2846793",
+          "goods_id": "56320028",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_1\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"56320028::1\",\"hot_goods_id\":\"56320028\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods6.juancdn.com/bao/170726/a/6/59784e2e8150a169a6104bbe_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥29",
+          "cp_color": "#ff464e",
+          "op": "¥298",
+          "title": "时尚蕾丝拼接短裤套装",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2846793",
+          "goods_id": "52320748",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_2\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"checkMore::2\",\"hot_goods_id\":\"52320748\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_1"
+    },
+    {
+      "goods_id": "58740188",
+      "shop_id": "2976700",
+      "brand_id": "1790483",
+      "title": "构画网红专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2976700",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "77.3万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods6.juancdn.com/bao/170401/a/6/58df79caa43d1f65450a6d72_180x90.png?imageMogr2/quality/88!/format/png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_3\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods2.juancdn.com/bao/170622/2/2/594b4254a43d1f66bc7aaa8c_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥29.9",
+          "cp_color": "#ff464e",
+          "op": "¥179",
+          "title": "碎花吊带连衣裙两件套",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2976700",
+          "goods_id": "53840268",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_3\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"53840268::3\",\"hot_goods_id\":\"53840268\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods3.juancdn.com/bao/170704/5/3/595b5f6ca9fcf8a6753c9772_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥29.9",
+          "cp_color": "#ff464e",
+          "op": "¥179",
+          "title": "蕾丝拼接无袖针织衫",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2976700",
+          "goods_id": "58740188",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_4\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"58740188::4\",\"hot_goods_id\":\"58740188\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_3"
+    },
+    {
+      "goods_id": "58950446",
+      "shop_id": "2724781",
+      "brand_id": "1790483",
+      "title": "蔻佰赞时尚潮流女装清仓专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2724781",
+      "coupon_tips": "满2件8.5折",
+      "is_jump": "1",
+      "mkt_info": "31.9万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods1.juancdn.com/bao/170516/0/9/591acdc5a43d1f730545918e_180x90.png?iopcmd=convert&Q=88&dst=png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_5\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods8.juancdn.com/bao/170622/e/6/594b512a957b521fbd3826a9_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥19.9",
+          "cp_color": "#ff464e",
+          "op": "¥199",
+          "title": "宽松显瘦高腰牛仔短裤",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2724781",
+          "goods_id": "52950406",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_5\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"52950406::5\",\"hot_goods_id\":\"52950406\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods2.juancdn.com/bao/170718/3/6/596daae58150a15f3f3ecb93_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥19.9",
+          "cp_color": "#ff464e",
+          "op": "¥299",
+          "title": "时尚百搭毛边牛仔短裤",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2724781",
+          "goods_id": "51950036",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_6\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"51950036::6\",\"hot_goods_id\":\"51950036\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_5"
+    },
+    {
+      "goods_id": "52250258",
+      "shop_id": "2076742",
+      "brand_id": "1790483",
+      "title": "老陈的裙裤焕新专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2076742",
+      "coupon_tips": "39元2件任选",
+      "is_jump": "1",
+      "mkt_info": "49.8万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods4.juancdn.com/bao/170221/7/f/58abdf81db01d9d45c8b45d1_180x90.png?imageMogr2/quality/88!/format/png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_7\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods1.juancdn.com/bao/170710/0/3/5962ee5a8150a1191402521a_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥25",
+          "cp_color": "#ff464e",
+          "op": "¥299",
+          "title": "高腰松紧九分小脚女裤",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2076742",
+          "goods_id": "56250648",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_7\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"56250648::7\",\"hot_goods_id\":\"56250648\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods6.juancdn.com/bao/170721/b/c/5971f9f9a9fcf80d6c31db66_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥38",
+          "cp_color": "#ff464e",
+          "op": "¥299",
+          "title": "毛边翻边九分牛仔裤",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2076742",
+          "goods_id": "50150178",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_8\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"50150178::8\",\"hot_goods_id\":\"50150178\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_7"
+    },
+    {
+      "goods_id": "56050298",
+      "shop_id": "2376761",
+      "brand_id": "1790483",
+      "title": "S.C私人订制女装专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2376761",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "56.2万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods5.juancdn.com/bao/170327/9/3/58d8697ba43d1f33e8220514_180x90.png?iopcmd=convert&Q=88&dst=png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_9\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods4.juancdn.com/bao/170731/6/1/597efee18150a153dd2b54d9_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥39.9",
+          "cp_color": "#ff464e",
+          "op": "¥299",
+          "title": "百搭T恤背带裙两件套",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2376761",
+          "goods_id": "52050538",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_9\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"52050538::9\",\"hot_goods_id\":\"52050538\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods6.juancdn.com/bao/170802/a/7/59816511a9fcf85c2f1c9357_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥45",
+          "cp_color": "#ff464e",
+          "op": "¥399",
+          "title": "清新纯色刺绣宽松衬衫",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2376761",
+          "goods_id": "53050398",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_10\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"53050398::10\",\"hot_goods_id\":\"53050398\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_9"
+    },
+    {
+      "goods_id": "59660668",
+      "shop_id": "2186701",
+      "brand_id": "1157460",
+      "title": "艾琳露女装上新专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1157460?shop_id=2186701",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "44.4万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/bao/150716/2/1/55a7256226755_80x40.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1157460::1_11\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods7.juancdn.com/bao/170726/c/b/5977f4118150a179764387f6_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥19",
+          "cp_color": "#ff464e",
+          "op": "¥298",
+          "title": "针织吊带背心打底衫",
+          "jump_url": "//m.juanpi.com/brand/1157460?shop_id=2186701",
+          "goods_id": "54170818",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1157460::1_11\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"54170818::11\",\"hot_goods_id\":\"54170818\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods7.juancdn.com/bao/170731/c/f/597f3a3a8150a1263505efa3_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥29",
+          "cp_color": "#ff464e",
+          "op": "¥298",
+          "title": "吊带露背无袖连衣裙",
+          "jump_url": "//m.juanpi.com/brand/1157460?shop_id=2186701",
+          "goods_id": "59660668",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1157460::1_12\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"59660668::12\",\"hot_goods_id\":\"59660668\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_11"
+    },
+    {
+      "goods_id": "52450608",
+      "shop_id": "2106728",
+      "brand_id": "1790483",
+      "title": "慕daier女装品质专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2106728",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "12.4万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods6.juancdn.com/bao/170720/b/c/597072088150a17d3d3702fc_180x90.png?imageMogr2/quality/88!/format/png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_13\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods1.juancdn.com/bao/170730/0/d/597d84ba8150a158f7789f6a_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥28",
+          "cp_color": "#ff464e",
+          "op": "¥600",
+          "title": "系带显瘦气质连衣裙",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2106728",
+          "goods_id": "54450718",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_13\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"54450718::13\",\"hot_goods_id\":\"54450718\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods5.juancdn.com/bao/170807/8/8/5987cc76a9fcf82933646e53_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥29.9",
+          "cp_color": "#ff464e",
+          "op": "¥199",
+          "title": "气质百搭蕾丝打底衫",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2106728",
+          "goods_id": "54450548",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_14\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"54450548::14\",\"hot_goods_id\":\"54450548\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_13"
+    },
+    {
+      "goods_id": "57880517",
+      "shop_id": "2506702",
+      "brand_id": "1790483",
+      "title": "经典姐妹花女装精选专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2506702",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "19.1万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods8.juancdn.com/bao/170710/e/7/5962f2298150a118894f2d17_180x90.png?imageMogr2/quality/88!/format/png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_15\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods5.juancdn.com/bao/170628/8/3/59537d4e5a3f3228d858ac27_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥49",
+          "cp_color": "#ff464e",
+          "op": "¥398",
+          "title": "时尚棉麻九分裤两件套",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2506702",
+          "goods_id": "59880337",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_15\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"59880337::15\",\"hot_goods_id\":\"59880337\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods3.juancdn.com/bao/170727/5/8/5979e832a9fcf86da139004e_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥35",
+          "cp_color": "#ff464e",
+          "op": "¥398",
+          "title": "胖MM宽松显瘦两件套",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2506702",
+          "goods_id": "58880837",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_16\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"58880837::16\",\"hot_goods_id\":\"58880837\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_15"
+    },
+    {
+      "goods_id": "55610877",
+      "shop_id": "2705790",
+      "brand_id": "1141521",
+      "title": "夜婷女装尖货专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1141521?shop_id=2705790",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "24.8万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/brand/151208/e/5/5666d25592be5911868b4567_180x90.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1141521::1_17\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods3.juancdn.com/bao/170730/5/0/597db3f78150a168bf7aa1a4_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥35.8",
+          "cp_color": "#ff464e",
+          "op": "¥98",
+          "title": "POLO领a字薄连衣裙子",
+          "jump_url": "//m.juanpi.com/brand/1141521?shop_id=2705790",
+          "goods_id": "53710907",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1141521::1_17\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"53710907::17\",\"hot_goods_id\":\"53710907\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods4.juancdn.com/bao/170707/7/6/595f5846a9fcf80dc33fac74_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥28.8",
+          "cp_color": "#ff464e",
+          "op": "¥239",
+          "title": "前短后长无袖格子衬衫",
+          "jump_url": "//m.juanpi.com/brand/1141521?shop_id=2705790",
+          "goods_id": "59610687",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1141521::1_18\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"59610687::18\",\"hot_goods_id\":\"59610687\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_17"
+    },
+    {
+      "goods_id": "56570176",
+      "shop_id": "2844785",
+      "brand_id": "1790483",
+      "title": "锦妃兔女装休闲裤上新专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2844785",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "45.2万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods1.juancdn.com/bao/170222/0/c/58ad5f9adb01d9c5708b4592_180x90.png?iopcmd=convert&Q=88&dst=png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_19\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods5.juancdn.com/bao/170508/9/2/59105645ad0a49be938b459f_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥25.8",
+          "cp_color": "#ff464e",
+          "op": "¥118",
+          "title": "时尚显瘦九分休闲裤",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2844785",
+          "goods_id": "59570776",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_19\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"59570776::19\",\"hot_goods_id\":\"59570776\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods2.juancdn.com/bao/170623/3/c/594d1f975a3f3254b8634636_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥26.8",
+          "cp_color": "#ff464e",
+          "op": "¥118",
+          "title": "百搭须边显瘦牛仔短裤",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2844785",
+          "goods_id": "55670406",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::1_20\",\"cid\":\"312\",\"_t\":1502176083,\"_gsort_key\":\"ZXG_SORT_24_20170808_12_8_15|2459895f286f81c\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"55670406::20\",\"hot_goods_id\":\"55670406\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "1_19"
+    }
+  ],
+  "more": 1,
+  "page": 1,
+  "pagesize": 10,
+  "code": 1000
+}

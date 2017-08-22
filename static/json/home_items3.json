@@ -1,0 +1,490 @@
+{
+  "count": 1318,
+  "list": [
+   
+    {
+      "goods_id": "52820097",
+      "shop_id": "2515708",
+      "brand_id": "1004582",
+      "title": "爱梦熊童装专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1004582?shop_id=2515708",
+      "coupon_tips": "满60元减8元",
+      "is_jump": "1",
+      "mkt_info": "22.6万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/brand/160402/b/8/56ff556c92be598caa8b456e_180x90.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1004582::3_1\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods4.juancdn.com/bao/170623/7/e/594ca058957b52357e1808e7_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥35",
+          "cp_color": "#ff464e",
+          "op": "¥586",
+          "title": "女童珍珠雪纺套装",
+          "jump_url": "//m.juanpi.com/brand/1004582?shop_id=2515708",
+          "goods_id": "57920007",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1004582::3_1\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"57920007::1\",\"hot_goods_id\":\"57920007\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods2.juancdn.com/bao/170619/2/0/59477676ad0a491f3c8b45d5_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥39.9",
+          "cp_color": "#ff464e",
+          "op": "¥486",
+          "title": "女童小女孩捧花连衣裙",
+          "jump_url": "//m.juanpi.com/brand/1004582?shop_id=2515708",
+          "goods_id": "52820097",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1004582::3_2\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"checkMore::2\",\"hot_goods_id\":\"52820097\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_1"
+    },
+    {
+      "goods_id": "50440287",
+      "shop_id": "2845701",
+      "brand_id": "1837526",
+      "title": "彩虹鸭休闲套装清仓专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1837526?shop_id=2845701",
+      "coupon_tips": "满1返69",
+      "is_jump": "1",
+      "mkt_info": "9.4万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/brand/160913/2/f/57d7c90f151ad13c068b4582_180x90.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1837526::3_3\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods5.juancdn.com/bao/170707/9/8/595efbb68150a132a912460b_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥19.9",
+          "cp_color": "#ff464e",
+          "op": "¥168",
+          "title": "男童三色短袖运动套装",
+          "jump_url": "//m.juanpi.com/brand/1837526?shop_id=2845701",
+          "goods_id": "52440857",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1837526::3_3\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"52440857::3\",\"hot_goods_id\":\"52440857\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods2.juancdn.com/bao/170628/2/a/5953953aa9fcf8188201987b_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥22.9",
+          "cp_color": "#ff464e",
+          "op": "¥168",
+          "title": "男童纯色棉麻套装",
+          "jump_url": "//m.juanpi.com/brand/1837526?shop_id=2845701",
+          "goods_id": "50440287",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1837526::3_4\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"50440287::4\",\"hot_goods_id\":\"50440287\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_3"
+    },
+    {
+      "goods_id": "54790265",
+      "shop_id": "2443748",
+      "brand_id": "1790483",
+      "title": "乐服家居日用百货居家收纳专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2443748",
+      "coupon_tips": "满59元减5元",
+      "is_jump": "1",
+      "mkt_info": "31.5万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods8.juancdn.com/bao/170504/f/5/590a89a0ad0a4916178b45cb_180x90.png?imageMogr2/quality/88!/format/png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_5\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods3.juancdn.com/bao/170609/5/4/593a67d9a43d1f200f6bdd30_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥79",
+          "cp_color": "#ff464e",
+          "op": "¥369",
+          "title": "超长加大床底收纳箱",
+          "jump_url": "//m.juanpi.com/brand/1038420?shop_id=2443748",
+          "goods_id": "52790975",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_5\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"52790975::5\",\"hot_goods_id\":\"52790975\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods7.juancdn.com/bao/170609/d/0/593a3839a43d1f5f0004672b_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥12.9",
+          "cp_color": "#ff464e",
+          "op": "¥189",
+          "title": "密封手提笑脸整理箱",
+          "jump_url": "//m.juanpi.com/brand/1038420?shop_id=2443748",
+          "goods_id": "54790265",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_6\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"54790265::6\",\"hot_goods_id\":\"54790265\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_5"
+    },
+    {
+      "goods_id": "52170407",
+      "shop_id": "2585795",
+      "brand_id": "1712494",
+      "title": "回力童鞋上新专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1712494?shop_id=2585795",
+      "coupon_tips": "75元2件任选",
+      "is_jump": "1",
+      "mkt_info": "7.3万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/bao/160202/4/0/56b0521392be590f238b456a_180x90.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1712494::3_7\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods6.juancdn.com/bao/170417/b/0/58f4a8e3a43d1f350a20f5c4_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥35",
+          "cp_color": "#ff464e",
+          "op": "¥168",
+          "title": "回力童鞋沙滩30-39",
+          "jump_url": "//m.juanpi.com/brand/1712494?shop_id=2585795",
+          "goods_id": "53170147",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1712494::3_7\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"53170147::7\",\"hot_goods_id\":\"53170147\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods7.juancdn.com/bao/170711/c/3/5964de6fa9fcf8b70e27b257_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥14.9",
+          "cp_color": "#ff464e",
+          "op": "¥148",
+          "title": "回力童鞋帆布鞋",
+          "jump_url": "//m.juanpi.com/brand/1712494?shop_id=2585795",
+          "goods_id": "52170407",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1712494::3_8\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"52170407::8\",\"hot_goods_id\":\"52170407\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_7"
+    },
+    {
+      "goods_id": "53410395",
+      "shop_id": "2152721",
+      "brand_id": "1443560",
+      "title": "心弛厨具餐具开学季专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1443560?shop_id=2152721",
+      "coupon_tips": "满60元减5元",
+      "is_jump": "1",
+      "mkt_info": "17.6万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/brand/160321/f/2/56efbad892be5920058b456a_180x90.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1443560::3_9\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods7.juancdn.com/tao/170220/c/9/58aa9130151ad1be588b45be_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥13.5",
+          "cp_color": "#ff464e",
+          "op": "¥29.9",
+          "title": "多功能刨丝器五件套",
+          "jump_url": "//m.juanpi.com/brand/1443560?shop_id=2152721",
+          "goods_id": "50610435",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1443560::3_9\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"50610435::9\",\"hot_goods_id\":\"50610435\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods4.juancdn.com/bao/170325/6/b/58d62e29a43d1f36d7088a38_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥59.9",
+          "cp_color": "#ff464e",
+          "op": "¥268",
+          "title": "304不锈钢三层蒸锅",
+          "jump_url": "//m.juanpi.com/brand/1443560?shop_id=2152721",
+          "goods_id": "53410395",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1443560::3_10\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"53410395::10\",\"hot_goods_id\":\"53410395\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_9"
+    },
+    {
+      "goods_id": "51000368",
+      "shop_id": "2316712",
+      "brand_id": "1389539",
+      "title": "天赐魅女鞋潮品专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1389539?shop_id=2316712",
+      "coupon_tips": "满50元减10元",
+      "is_jump": "1",
+      "mkt_info": "13.5万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/bao/170616/c/1/59436be7ad0a493c0e8b45e3_180x90.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1389539::3_11\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods8.juancdn.com/bao/170701/f/e/595730ef8150a1475b01f49e_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥29.9",
+          "cp_color": "#ff464e",
+          "op": "¥169",
+          "title": "鱼嘴拼色坡跟凉拖鞋",
+          "jump_url": "//m.juanpi.com/brand/1389539?shop_id=2316712",
+          "goods_id": "56100348",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1389539::3_11\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"56100348::11\",\"hot_goods_id\":\"56100348\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods2.juancdn.com/bao/170807/2/b/59882adda9fcf8050e724ee1_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥27.8",
+          "cp_color": "#ff464e",
+          "op": "¥136",
+          "title": "深口系带韩版纯色单鞋",
+          "jump_url": "//m.juanpi.com/brand/1389539?shop_id=2316712",
+          "goods_id": "51000368",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1389539::3_12\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"51000368::12\",\"hot_goods_id\":\"51000368\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_11"
+    },
+    {
+      "goods_id": "55500218",
+      "shop_id": "2316724",
+      "brand_id": "1149555",
+      "title": "兽道男装清仓专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1149555?shop_id=2316724",
+      "coupon_tips": "满2件8.5折",
+      "is_jump": "1",
+      "mkt_info": "31.2万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://s1.juancdn.com/brand/170425/d/4/58ff19c7ad0a495f048b45d5_180x90.png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1149555::3_13\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods4.juancdn.com/bao/160422/7/9/5719d72f92be59ab118b4580_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥37",
+          "cp_color": "#ff464e",
+          "op": "¥298",
+          "title": "烫金印花V领短袖套装",
+          "jump_url": "//m.juanpi.com/brand/1149555?shop_id=2316724",
+          "goods_id": "58300468",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1149555::3_13\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"58300468::13\",\"hot_goods_id\":\"58300468\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods5.juancdn.com/bao/170602/9/5/5930e0b6a43d1f1d1923009e_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥32",
+          "cp_color": "#ff464e",
+          "op": "¥298",
+          "title": "日系小清新运动套装",
+          "jump_url": "//m.juanpi.com/brand/1149555?shop_id=2316724",
+          "goods_id": "55500218",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1149555::3_14\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"55500218::14\",\"hot_goods_id\":\"55500218\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_13"
+    },
+    {
+      "goods_id": "55680587",
+      "shop_id": "2906770",
+      "brand_id": "1790483",
+      "title": "香格里拉个护热卖专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2906770",
+      "coupon_tips": "满2件8.5折",
+      "is_jump": "1",
+      "mkt_info": "54.1万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods1.juancdn.com/bao/170331/1/9/58de35c8a43d1f3f1962bb85_180x90.png?iopcmd=convert&Q=88&dst=png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_15\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods2.juancdn.com/bao/170509/2/2/59113cc1a43d1f1aa5391bc3_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥6.8",
+          "cp_color": "#ff464e",
+          "op": "¥99.9",
+          "title": "抽气式加厚拔罐器套装",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2906770",
+          "goods_id": "53680597",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_15\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"53680597::15\",\"hot_goods_id\":\"53680597\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods8.juancdn.com/bao/161205/f/3/5844f640db01d99b298b4567_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥12.8",
+          "cp_color": "#ff464e",
+          "op": "¥88",
+          "title": "蓝光清洁牙齿美白仪",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2906770",
+          "goods_id": "55680587",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_16\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"55680587::16\",\"hot_goods_id\":\"55680587\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_15"
+    },
+    {
+      "goods_id": "59110348",
+      "shop_id": "2926795",
+      "brand_id": "1790483",
+      "title": "丝顿白女装女装上新专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2926795",
+      "coupon_tips": "满1件9折",
+      "is_jump": "1",
+      "mkt_info": "26.1万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods8.juancdn.com/bao/170328/f/b/58d9c9b3a43d1f1c443ae816_180x90.png?imageMogr2/quality/88!/format/png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_17\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods3.juancdn.com/bao/170711/5/4/5964f38da9fcf84b1877ac13_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥69",
+          "cp_color": "#ff464e",
+          "op": "¥119",
+          "title": "V领个性中长款连衣裙",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2926795",
+          "goods_id": "54010898",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_17\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"54010898::17\",\"hot_goods_id\":\"54010898\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods8.juancdn.com/bao/170803/e/c/598287aba9fcf89c81593233_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥119",
+          "cp_color": "#ff464e",
+          "op": "¥299",
+          "title": "优雅半身裙两件套",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2926795",
+          "goods_id": "59110348",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_18\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"59110348::18\",\"hot_goods_id\":\"59110348\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_17"
+    },
+    {
+      "goods_id": "58430738",
+      "shop_id": "2366723",
+      "brand_id": "1790483",
+      "title": "珍尚全球购进口美食热卖专场",
+      "block_type": 24,
+      "goods_jump_url": "//m.juanpi.com/brand/1790483?shop_id=2366723",
+      "coupon_tips": "满2件减5元",
+      "is_jump": "1",
+      "mkt_info": "2.1万人已团",
+      "bought_mark": {
+        "bg_color": "0xffffff",
+        "text_color": "0xff464e",
+        "border_color": "0xff464e",
+        "text": "已购买过"
+      },
+      "logo_url": "https://goods4.juancdn.com/bao/170606/7/8/593679dcad0a4993a18b45db_180x90.png?imageMogr2/quality/88!/format/png",
+      "activityname": "click_cube_goods",
+      "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_19\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\"}",
+      "sub_data": [
+        {
+          "pic": "https://goods7.juancdn.com/bao/170731/d/2/597f2ba3a9fcf8baf57ed0a7_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310%7Ciopcmd=convert&Q=88&dst=jpg",
+          "cp": "¥43.6",
+          "cp_color": "#ff464e",
+          "op": "¥69",
+          "title": "佳乐锭牛奶压片糖2袋",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2366723",
+          "goods_id": "51430738",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_19\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"51430738::19\",\"hot_goods_id\":\"51430738\"}",
+          "corner": ""
+        },
+        {
+          "pic": "https://goods6.juancdn.com/bao/170610/a/4/593b9bd4a43d1f048f3ccf16_800x800.jpg?imageMogr2/thumbnail/310x310!/quality/88!/format/jpg",
+          "cp": "¥28.8",
+          "cp_color": "#ff464e",
+          "op": "¥59",
+          "title": "丽芝士奶酪威化145g*5",
+          "jump_url": "//m.juanpi.com/brand/1790483?shop_id=2366723",
+          "goods_id": "58430738",
+          "activityname": "click_cube_goods",
+          "server_jsonstr": "{\"pit_info\":\"brand::1790483::3_20\",\"cid\":-1,\"_t\":1502103914,\"_gsort_key\":\"ZXG_SORT_2_20170807_16_8_19|2598845de197ab\",\"_pit_type\":8,\"_z\":\"51_18_5_128\",\"sub_md\":\"58430738::20\",\"hot_goods_id\":\"58430738\"}",
+          "corner": ""
+        }
+      ],
+      "gsort_pit_type": 8,
+      "x_record": "3_19"
+    }
+  ],
+  "more": 1,
+  "page": 1,
+  "pagesize": 10,
+  "code": 1000
+}
